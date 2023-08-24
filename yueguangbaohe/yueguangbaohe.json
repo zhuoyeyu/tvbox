@@ -3,7 +3,7 @@
 
 
 
-"spider":"./0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 
 "lives":[
 
@@ -11,7 +11,7 @@
     
 {
       "name": "live",
-      "url": "./lib/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo=:0",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo=:0",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -20,19 +20,19 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=Li9saWIvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbz06MA=="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vemh1b3lleXUvdHZib3gvbWFpbi95dWVndWFuZ2Jhb2hlL2xpYi9aQi50eHQ/c2lnbj1pQ2hEWERDN1dKUlRwN3lXQXlWZGJZM3NpNXNKNWVGd0VnYVIzNVlRR1NvPTow"]}]
     }],
 "sites":[
 {
             "key": "js豆瓣1",
             "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/29_022812_drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/29_022812_drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },{"key":"好趣网","name":"📺电视直播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/好趣网.js"},
+        },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/好趣网.js"},
          {
       "key": "csp_Nmys",
       "name": "✈️速度流畅",
@@ -54,7 +54,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.zxzj.pro/"
-    },{"key":"drpy_js_超前点播","name":"🍌VIP影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/超前点播.js"}, {"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cdd.json","jar": "./lib/83.jar"},
+    },{"key":"drpy_js_超前点播","name":"🍌VIP影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhuoyeyu/tvbox/main/yueguangbaohe/lib/超前点播.js"}, {"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cdd.json","jar": "./lib/83.jar"},
      {
       "key": "csp_Ikanbot",
       "name": "👾爱看多线",
